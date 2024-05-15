@@ -17,3 +17,6 @@ This is a DevOps project for practicing Kubernetes deployments using Helm. The a
    ```bash
    git clone https://github.com/akash-repo/video-to-audio-microservices-app.git
    cd video-to-audio-microservices-app
+   
+2. helm install video-to-audio-microservices-app ./charts/video-to-audio-microservices-app
+
