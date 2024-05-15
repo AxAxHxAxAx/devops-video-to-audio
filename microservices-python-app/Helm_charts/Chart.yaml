@@ -1,0 +1,4 @@
+apiVersion: v2
+name: my-chart
+description: A Helm chart for deploying a MongoDB instance
+version: 1.0.0
